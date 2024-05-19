@@ -1,6 +1,6 @@
 # 🎨 Creative Portfolio
 
-![Home Section](./public/demo.gif)
+![Home Section](./public/portfolio.gif)
 
 This portfolio is a showcase of a frontend developer's work, featuring various sections.
 
