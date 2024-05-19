@@ -60,7 +60,7 @@ The portfolio is divided into several key sections, each designed to offer a uni
 ### 📄 Footer
 
 - **Visibility**: Always visible at the bottom of each section.
-- **Content**: Contains copyright information and reaffirms the branding (Miraya Tech).
+- **Content**: Contains copyright information and reaffirms the branding (Jaytlin Tech).
 
 ## 🛣️ Paths to Sections
 
